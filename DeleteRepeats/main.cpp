@@ -1,4 +1,4 @@
-/*This program should delete any repeats.*/
+/*This program should delete any repeats. test*/
 #include <iostream> 
 using namespace std;
 
